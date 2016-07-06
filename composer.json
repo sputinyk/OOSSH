@@ -1,14 +1,14 @@
 {
-    "name": "yohang/oossh",
+    "name": "sputinyk/oossh",
     "description": "Object Oriented SSH for PHP",
     "keywords": ["ssh"],
-    "homepage": "https://github.com/frequence-web/OOSSH",
+    "homepage": "https://github.com/sputinyk/OOSSH",
     "type": "library",
     "license": "MIT",
     "authors": [{
-        "name": "Yohan GIARELLI",
-        "email": "yohan@giarel.li",
-        "homepage": "http://yohan.giarel.li"
+        "name": "José Neto",
+        "email": "sputinykster@gmail.com",
+        "homepage": "http://fb.com/sputinyk"
     }],
 
     "autoload": {
@@ -17,7 +17,7 @@
 
     "require": {
         "ext-ssh2":       "*",
-        "symfony/finder": ">=2.1.0,<3.0"
+        "symfony/finder": ">=2.1.0,<3.5"
     },
     "extra": {
         "branch-alias": {
