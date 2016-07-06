@@ -1,6 +1,7 @@
 {
     "name": "sputinyk/oossh",
     "minimum-stability": "dev",
+    "prefer-stable": true,
     "description": "Object Oriented SSH for PHP",
     "keywords": ["ssh"],
     "homepage": "https://github.com/sputinyk/OOSSH",
